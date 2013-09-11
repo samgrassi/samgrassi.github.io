@@ -1,7 +1,10 @@
 Styles
-body {
+head {
 	background: #FFFFFF;
 	font-size: 100px;
 	font-family: "Helvetica";
-
+}
+body {
+	font-size: 50px;
+	font-family: "Helvetica"
 }
