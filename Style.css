@@ -1,10 +1,10 @@
-Styles
-head {
-	background: #FFFFFF;
-	font-size: 100px;
-	font-family: "Helvetica";
-}
 body {
 	font-size: 50px;
-	font-family: "Helvetica"
+	font-family: "Helvetica";
+	-moz-column-count: 8;
+	-moz-column-gap: px;
+	-webkit-column-count: 8;
+	-webkit-column-gap: px;
+	column-count: 8;
+	column-gap: px;
 }
