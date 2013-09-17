@@ -1,7 +1,8 @@
 body {
+	background: coral;
 	font-size: 50px;
 	font-family: "Helvetica";
 	}
-	#giftproject {
+#giftproject {
 		font-size: 18px;
 	}
