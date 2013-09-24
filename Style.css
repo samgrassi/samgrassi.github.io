@@ -26,12 +26,11 @@ h3 {
 		font-style: italic;
 	}
 .crit p {
-	color: white;
+	color: black;
 }
 
 .crit {
 	background: white;
-	color:black;
 	border: black;
 	font-size: 12px;
 	margin:20px 300px;
