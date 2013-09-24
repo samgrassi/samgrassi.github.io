@@ -7,7 +7,7 @@ body {
 	}
 
 .giftproject p {
-		color: black;
+		font-color: black;
 	}
 
 .giftproject {
@@ -25,7 +25,7 @@ h3 {
 		font-style: italic;
 	}
 .crit p {
-	color: black;
+	font-color: black;
 }
 
 .crit {
