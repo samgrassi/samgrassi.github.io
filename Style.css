@@ -12,6 +12,7 @@ body {
 
 .giftproject {
 		background: white;
+		border: black;
 		font-size: 18px;
 		margin: 20px 300px;
 	}
@@ -30,6 +31,7 @@ h3 {
 
 .crit {
 	background: white;
+	border: black;
 	font-size: 12px;
 	margin:20px 300px;
 }
