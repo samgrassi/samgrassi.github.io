@@ -5,6 +5,14 @@ body {
 	line-height: 2em;
 	}
 
+h2 {
+	font-size: 30px;
+}
+
+h3 {
+	font-size: 18px;
+}
+
 .giftproject p {
 		font-color: black;
 	}
