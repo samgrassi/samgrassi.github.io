@@ -10,8 +10,9 @@ body {
 	}
 
 .giftproject {
-		font-size: 18px;
+		font-size: 14px;
 		margin: 20px 300px;
+		border: 1px black ;
 	}
 
 h3 {
