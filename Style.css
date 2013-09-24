@@ -1,5 +1,4 @@
 body {
-	background: white;
 	text-align: center;
 	font-size: 50px;
 	font-family: "Helvetica"
@@ -11,7 +10,6 @@ body {
 	}
 
 .giftproject {
-		border: black;
 		font-size: 18px;
 		margin: 20px 300px;
 	}
@@ -29,7 +27,6 @@ h3 {
 }
 
 .crit {
-	border: black;
 	font-size: 12px;
 	margin:20px 300px;
 }
