@@ -6,14 +6,14 @@ body {
 	}
 
 .giftproject p {
-		font-color: black;
+		font-color: white;
 	}
 
 .giftproject {
-		font-size: 14px;
+		font-size: 12px;
 		margin: 20px 300px;
 		background-color: #cdffb0;
-		font-color:white;
+		font-color: white;
 	}
 
 h3 {
