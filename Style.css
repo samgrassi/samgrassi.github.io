@@ -1,8 +1,31 @@
 body {
 	background: coral;
+	text-align: center;
 	font-size: 50px;
-	font-family: "Helvetica";
+	font-family: "Helvetica"
+	line-height: 1.5em;
 	}
-#giftproject {
+
+p {
+	color: red;
+	}
+
+.giftproject p {
+		color: gray;
+	}
+
+.giftproject {
+		background: white;
 		font-size: 18px;
+		margin: 20px 300px;
 	}
+
+h3 {
+	font-size: 2em;
+	margin: 3em 0 1.4em 0;
+	}
+	
+	.emphasis {
+		font-style: italic;
+	}
+
