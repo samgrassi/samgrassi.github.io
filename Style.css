@@ -6,10 +6,6 @@ body {
 	line-height: 1.5em;
 	}
 
-p {
-	color: black;
-	}
-
 .giftproject p {
 		color: white;
 	}
@@ -29,7 +25,7 @@ h3 {
 		font-style: italic;
 	}
 .crit p {
-	color:white;
+	color: white;
 }
 
 .crit {
