@@ -15,7 +15,7 @@ body {
 		background-color: #cdffb0;
 	}
 
-h3 {
+h2 {
 	font-size: 2em;
 	margin: 3em 0 1.4em 0;
 	font-family: "europa";
@@ -24,6 +24,11 @@ h3 {
 	.emphasis {
 		font-style: italic;
 	}
+
+h3 {
+	font-family: "europa";
+}
+
 .crit p {
 	font-color: black;
 }
@@ -33,4 +38,5 @@ h3 {
 	line-height: 3em;
 	margin:20px 160px;
 }
+
 
