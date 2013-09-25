@@ -1,18 +1,21 @@
 body {
 	text-align: center;
 	font-size: 50px; 
-	font-family: Helvetica;
+	font-family: "europa";
 	color: #D8BFD8;
 	}
+h1 {
+	margin: 0;
+}
 
 h2 {
 	font-size: 45px;
-	margin: .3em 0 1.5em 0;
+	margin: 1em 0 3em 0;
 	color:black;
 }
 
 h4 {
-		margin: 3em 0 1.5em 0;
+		margin: 1em 0 1em 0;
 		font-size: 20px;
 		color: #D8BFD8;
 	}
