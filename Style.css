@@ -8,28 +8,31 @@ body {
 h2 {
 	font-size: 45px;
 	margin: .3em 0 1.5em 0;
+	color:black;
 }
 
 h4 {
 		margin: 3em 0 1.5em 0;
 		font-size: 20px;
+		color: #D8BFD8;
 	}
 .avocado h4 {
 		margin: 5em 0 1.5em 0;
 		font-size: 20px;
+		color: #D8BFD8;
 }
 
 .giftproject p {
 		font-size: 12px;
 		line-height: 3em;
 		margin: 15px 240px;
-		background-color: #FFFAFA;
 		color: black;
 	}
 
 .giftproject h2 {
 	font-size: 20px;
 	margin: 3em 0 1.5em 0;
+	color: #D8BFD8;
 	}
 	
 	.emphasis {
@@ -38,7 +41,7 @@ h4 {
 
 .crit p {
 	color: black;
-	background-color: #FFFAFA;
+	
 }
 
 .crit {
@@ -50,4 +53,5 @@ h4 {
 .crit h3 {
 	font-size: 20px;
 	margin: 5em 0 1.5em 0;
+	color: #D8BFD8;
 }
