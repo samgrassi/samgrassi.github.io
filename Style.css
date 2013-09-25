@@ -1,21 +1,35 @@
 body {
 	text-align: center;
 	font-size: 50px; 
-	font-family: "europa", Helvetica;
-	}
-
-.giftproject p {
-		font-color: white;
-	}
-
-.giftproject {
-		font-size: 12px;
-		margin: 20px 300px;
+	font-family: Helvetica;
+	color: #D8BFD8;
 	}
 
 h2 {
-	font-size: 2em;
-	margin: 3em 0 1.4em 0;
+	font-size: 45px;
+	margin: .3em 0 1.5em 0;
+}
+
+h4 {
+		margin: 3em 0 1.5em 0;
+		font-size: 20px;
+	}
+.avocado h4 {
+		margin: 5em 0 1.5em 0;
+		font-size: 20px;
+}
+
+.giftproject p {
+		font-size: 12px;
+		line-height: 3em;
+		margin: 15px 240px;
+		background-color: #FFFAFA;
+		color: black;
+	}
+
+.giftproject h2 {
+	font-size: 20px;
+	margin: 3em 0 1.5em 0;
 	}
 	
 	.emphasis {
@@ -23,11 +37,8 @@ h2 {
 	}
 
 .crit p {
-	font-color: black;
-}
-
-h3 {
-	font-size: 25px;
+	color: black;
+	background-color: #FFFAFA;
 }
 
 .crit {
@@ -36,4 +47,7 @@ h3 {
 	margin:20px 160px;
 }
 
-
+.crit h3 {
+	font-size: 20px;
+	margin: 5em 0 1.5em 0;
+}
