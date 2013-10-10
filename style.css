@@ -100,7 +100,7 @@ a.crit:hover {
 	font-family:"museo-sans";
 }
 
-a.nemesis {
+a.nemesis {	
 	background-color:#D8BfD8;
 	display:block;
 	padding:100px;
@@ -110,5 +110,11 @@ a.nemesis {
 
 a.nemesis:hover {
 	background-color:pink;
+}
+
+.nemesis h5 {
+	font-family:"museo-sans";
+	font-color:black;
+	font-size:20px;
 }
 
