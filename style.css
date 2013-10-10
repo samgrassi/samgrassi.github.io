@@ -1,9 +1,10 @@
 body {
 	text-align: center;
 	font-size: 50px; 
-	font-family: "estilo-script";
+	font-family: "mono45-headline";
 	color: #D8BFD8;
 	}
+
 h1 {
 	margin: 0;
 }
@@ -15,9 +16,11 @@ h2 {
 }
 
 a.selfie {
-	background-color: yellow;
+	background-color:#D8BFD8;
 	display:block;
 	padding:100px;
+	width:300px;
+	font-color:black;
 }
 
 a.selfie:hover {
@@ -33,6 +36,18 @@ h4 {
 		margin: 5em 0 1.5em 0;
 		font-size: 20px;
 		color: #D8BFD8;
+}
+
+a.giftproject {
+	background-color:#D8BfD8;
+	display:block;
+	padding:100px;
+	width:300px;
+	font-size:30px;
+}
+
+a.giftproject:hover {
+	background-color:pink;
 }
 
 .giftproject p {
@@ -53,6 +68,18 @@ h4 {
 		font-style: italic;
 	}
 
+a.crit {
+	background-color:#D8BfD8;
+	display:block;
+	padding:100px;
+	width:300px;
+	font-size:30px;
+}
+
+a.crit:hover {
+	background-color:pink;
+}
+
 .crit p {
 	text-align: left;
 	color: black;
@@ -63,11 +90,16 @@ h4 {
 	text-align: left;
 	font-size: 18px;
 	line-height: 3em;
-	margin:20px 160px;
 }
 
-.crit h3 {
-	font-size: 20px;
-	margin: 5em 0 1.5em 0;
-	color: #D8BFD8;
+a.nemesis {
+	background-color:#D8BfD8;
+	display:block;
+	padding:100px;
+	width:300px;
 }
+
+a.nemesis:hover {
+	background-color:pink;
+}
+
