@@ -81,6 +81,7 @@ a.crit {
 	padding:100px;
 	width:300px;
 	font-size:30px;
+	font-family:"museo-sans";
 }
 
 a.crit:hover {
@@ -90,13 +91,13 @@ a.crit:hover {
 .crit p {
 	text-align: left;
 	color: black;
-	
 }
 
 .crit {
 	text-align: left;
 	font-size: 18px;
 	line-height: 3em;
+	font-family:"museo-sans";
 }
 
 a.nemesis {
