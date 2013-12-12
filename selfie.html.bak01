@@ -3,16 +3,8 @@
 		<link rel="stylesheet" type="text/css" href="style.css" />
 	</head>
 	<body>
-		</a><div class="avocado">
-		<div class="background">
-			<h1>
-				Samantha Grassi
-			</h1>
-			<h2>
-				Graphic Design
-			</h2>
-		</div>
-<div class="background">
+			</a><div class="avocado">
+			<div class="background">
 			<h1>
 				Samantha Grassi
 			</h1>
@@ -21,7 +13,7 @@
 			</h2>
 		</div>
 		<div class="container">
-			
+			<img class="stanley" src="images/stanley.jpg">
 
 			<a class="selfie" href="selfie.html">
 				Selfie
@@ -34,16 +26,11 @@
 			<a class="crit" href="crit.html"> The Pen is Mightier </a>
 
 			<a class="nemesis" href="nemesis.html"> Nemesis </a>
-
-			<img class="stanley" src="images/stanley.jpg">
 		<div class="biggie">
-			<h4>Selfie I<h4>
-				<img class="avocadojpg" src="images/Avocado.png"/> 
-			 
-
+			<h4>Selfie I<h4> 
+			<img src="images/Avocado.png"/> 
 			<h4>Selfie II<h4>
-				<img class="avocado1jpg" src="images/avocado1.png"/> 
-			
+			<img src="images/avocado1.png"/> 
 		</div>
 
 	</body>
