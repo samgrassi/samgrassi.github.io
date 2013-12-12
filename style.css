@@ -12,11 +12,15 @@ body {
 	border-bottom: 20px solid #fff;
 	top: 0;
 }
+
 h1 {
 	font-family:"Futura";
 	font-size:30px;
 	text-align:right;
 	color:lightblue;
+	margin-right:3em;
+	line-height:10px;
+	padding-top:1.5em;
 }
 
 h2 {
@@ -24,6 +28,8 @@ h2 {
 	font-size:40px;
 	text-align:right;
 	color:lightblue;
+	margin-right:3em;
+	line-height:10px;
 }
 
 .container {
@@ -42,6 +48,8 @@ a {
 	font-family:"Futura";
 	font-size: 20px;
 	padding:10px;
+	margin-left:2.5em;
+	margin-right:2.3em;
 }
 
 .stanley {
@@ -49,6 +57,14 @@ a {
 	position:relative;
 	display:block;
 	z-index:160;
+}
+
+a.home {
+	z-index:200;
+}
+
+a.home:hover {
+	background-color:lightblue;
 }
 
 a.selfie {
