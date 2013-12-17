@@ -188,9 +188,12 @@ a.nemesis:hover {
 .nemesispage h5 {
 	font-family:"Futura";
 	color:black;
-	font-size:18px;
+	font-size:20px;
 	text-align: center;
-	margin-left:60px;
+	color:darkgrey;
+	padding-bottom:24px;
+	padding-left:150px;
+	padding-right:150px;
 }
 
 .nemesispage h4 {
@@ -200,14 +203,6 @@ a.nemesis:hover {
 	padding-left:50px;
 	margin-bottom:30px;
 }
-
-.nemesispage p {
-	padding-top:130px;
-	font-size:24px;
-	padding-left:50px;
-	text-align: left;
-}
-
 a.howto:hover {
 	background-color:lightblue;
 }
@@ -229,6 +224,16 @@ img {
 	margin-bottom:10px;
 }
 
+h6 {
+	padding-left:50px;
+	font-size:20px;
+	color:darkgrey;
+	font-family:"Futura";
+	text-align:left;
+	line-height:2px;
+	margin-top:-20px;
+}
+
 a.christmas {
 	z-index:200
 }
@@ -248,10 +253,15 @@ a.christmas {
 	padding:20px;
 }
 
-.christmaspage p{
-	text-align:center;
+.christmaspage p {
 	font-family:"Futura";
 	font-size:20px;
+	color:black;
+	text-align: center;
+}
+
+.christmaspage p:hover {
+	color:green;
 }
 
 a.christmas:hover {
@@ -264,6 +274,20 @@ a.loveletter {
 
 a.loveletter:hover {
 	background-color:lightblue;
+}
+
+.loveletterpage h4 {
+	font-size:24px;
+	padding-left: 50px;
+}
+
+.loveletterpage img {
+	display: block;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+	padding:20px;
 }
 
 .biggie {
