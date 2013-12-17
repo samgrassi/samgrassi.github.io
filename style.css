@@ -25,7 +25,7 @@ h1 {
 
 h2 {
 	font-family:"Futura";
-	font-size:40px;
+	font-size:30px;
 	text-align:right;
 	color:lightblue;
 	margin-right:3em;
@@ -46,10 +46,10 @@ a {
 	display:inline-block;
 	color:000;
 	font-family:"Futura";
-	font-size: 20px;
-	padding:10px;
-	margin-left:2.5em;
-	margin-right:2.3em;
+	font-size: 15px;
+	padding:2px;
+	text-align: center;
+	margin-left:50px;
 }
 
 .stanley {
@@ -76,10 +76,12 @@ a.selfie:hover {
 }
 
 h4 {
-		font-size: 20px;
+		font-size: 24px;
 		color:black;
 		font-family:"Futura";
-		text-align:center;
+		text-align:left;
+		margin-top:40px;
+		padding-left: 50px;
 	}
 
 .avocadojpg {
@@ -89,6 +91,7 @@ h4 {
 	display:block;
 	margin-right:auto;
 	margin-left:auto;
+	margin-bottom:60px;
 }
 
 .avocado1jpg {
@@ -108,38 +111,39 @@ a.giftproject:hover {
 	background-color:lightblue;
 }
 
-.giftprojectpage p {
-	text-align: left;
-	font-size: 18px;
-	margin: 15px 240px;
-	color: black;
+.giftprojectpage h4 {                                                                                                                                                               
+	color:black;
 	font-family:"Futura";
+	font-size:28px;
+	padding:10px;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:left;
+	padding-left:50px;
 }
 
 .giftprojectpage p {
+	text-align: left;
+	color: black;
+	font-family:"Futura";
 	font-size: 20px;
 	padding:10px;
-	margin: 3em 0 1.5em 0;
+	margin-left:50px;
+	margin-right:50px;
 	color: black;
 }
 
 .emphasis {
 	font-style: italic;
 }
-.can {
-	box-shadow: 0 0 20px rgba(0,0,0,0.4); 
-	padding:20px;
-	display:inline-block;
-	margin-right:auto;
-	margin-left:auto;
-}
 
 .amelia {
 	box-shadow: 0 0 20px rgba(0,0,0,0.4); 
 	padding:20px;
-	display:inline-block;
-	margin-right:auto;
-	margin-left:auto;
+	margin-top:10px;
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
 }
 
 a.crit {
@@ -155,7 +159,15 @@ a.crit:hover {
 	font-size: 18px;
 	font-family:"Futura";
 }
-
+.critpage h3 {
+	padding-left:50px;
+	font-size:24px;
+}
+.critpage p {
+	padding-left:50px;
+	padding-right:50px;
+	line-height:28px;
+}
 a.nemesis {
 	z-index:200
 }
@@ -165,6 +177,9 @@ a.nemesis:hover {
 }
 
 .nemesispage img {
+	position:relative;
+	box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+	padding:20px;
 	display:block;
 	margin-right:auto;
 	margin-left:auto;
@@ -174,12 +189,81 @@ a.nemesis:hover {
 	font-family:"Futura";
 	color:black;
 	font-size:18px;
+	text-align: center;
+	margin-left:60px;
 }
 
 .nemesispage h4 {
 	font-family: "Futura";
 	color:black;
-	padding-top:30px;
+	text-align:left;
+	padding-left:50px;
+	margin-bottom:30px;
+}
+
+.nemesispage p {
+	padding-top:130px;
+	font-size:24px;
+	padding-left:50px;
+	text-align: left;
+}
+
+a.howto:hover {
+	background-color:lightblue;
+}
+
+.howtopage h4 {
+	padding-left:50px;
+	font-size:24px;
+	font-family:"Futura";
+	color:black;
+}
+
+img {
+	position:relative;
+	box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+	padding:20px;
+	display:block;
+	margin-right:auto;
+	margin-left:auto;
+	margin-bottom:10px;
+}
+
+a.christmas {
+	z-index:200
+}
+
+.christmaspage h4 {
+	font-size:24px;
+	text-align: left;
+	padding-left: 50px;
+}
+
+.christmaspage img {
+	display: block;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+	padding:20px;
+}
+
+.christmaspage p{
+	text-align:center;
+	font-family:"Futura";
+	font-size:20px;
+}
+
+a.christmas:hover {
+	background-color:lightblue;
+}
+
+a.loveletter {
+	z-index:200
+}
+
+a.loveletter:hover {
+	background-color:lightblue;
 }
 
 .biggie {
